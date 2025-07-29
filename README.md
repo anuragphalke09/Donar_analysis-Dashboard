@@ -49,11 +49,11 @@ Insights:
 
 Page 3 – RFM Analysis (Recency, Frequency, Monetary)
 What is RFM?
-Recency: How recently a donor has contributed.
+- Recency: How recently a donor has contributed.
 
-Frequency: How often they donate.
+- Frequency: How often they donate.
 
-Monetary: Total amount donated.
+- Monetary: Total amount donated.
 
 Step 1: Calculate R, F, M
 DAX Example – Recency:
