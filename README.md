@@ -40,12 +40,12 @@ Insights:
 -Sum of Donation Amount by Age Group
 → Most generous donors are aged 50–65.
 
--Target Audience:
-  -Country: USA
+- Target Audience:
+   - Country: USA
 
-  -Age Group: 50–65
+   - Age Group: 50–65
 
-  -Referral Strategy: Personal outreach (Word of Mouth)
+   - Referral Strategy: Personal outreach (Word of Mouth)
 
 Page 3 – RFM Analysis (Recency, Frequency, Monetary)
 What is RFM?
